@@ -2,6 +2,7 @@
 # Tekur við inputi sem er N(orth), S(south), e(east), w(west)
 # ef inputið er ekki gilt prentast út að það sé ekki gilt og gefur þér vagmöguleikana hvert þú getur farið og leyfir að reyna aftur 
 # Forritið leyfir að setja inn input eins oft áður en það kemur að sigur kassanaum (3.1) og prentar út "Victory!"
+#https://github.com/mariak18/TileTravel
 
 #1.  Which implementation was easier and why?
     #Fyrri kóðin var einfaldari því að við höfum verið að forrita þannig frá byrjuum erum ný byrjuð að læra um föll. 
